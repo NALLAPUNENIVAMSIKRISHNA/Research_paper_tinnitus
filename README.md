@@ -21,3 +21,4 @@ treatment outcomes. Higher accuracy levels of the proposed
 model using AI help the practitioners suggest the proper 
 diagnosis for the patients and also check the patient's recovery 
 over a period of time.
+![image](https://github.com/NALLAPUNENIVAMSIKRISHNA/Research_paper_tinnitus/assets/76245813/c529b1da-fa6b-4d2e-82c2-fa50880cca9d)
